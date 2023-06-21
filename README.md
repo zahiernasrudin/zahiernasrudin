@@ -30,7 +30,8 @@ My name is Zahier Nasrudin, and I am a senior data scientist at NielsenIQ Malays
 
 ## Shiny applications
 
-- [Fuzzy matching](https://zahier-nasrudin.netlify.app/posts/2022-11-30-shiny-app-fuzzy-matching/)
-- [Malaytextr](https://zahier-nasrudin.netlify.app/posts/2022-12-06-shiny-app-malaytextr/)
+
+- <a href="https://zahier-nasrudin.netlify.app/posts/2022-12-06-shiny-app-malaytextr/" target="_blank">Malaytextr</a>
+- <a href="https://zahier-nasrudin.netlify.app/posts/2022-11-30-shiny-app-fuzzy-matching/" target="_blank">Fuzzy Matching</a>
 
 *Icons from flaticon*
