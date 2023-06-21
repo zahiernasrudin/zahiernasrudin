@@ -28,4 +28,9 @@
 
 My name is Zahier Nasrudin, and I am a senior data scientist at NielsenIQ Malaysia and also a freelance data consultant
 
+## Shiny applications
+
+- [Fuzzy matching](https://zahier-nasrudin.netlify.app/posts/2022-11-30-shiny-app-fuzzy-matching/)
+- [Malaytextr](https://zahier-nasrudin.netlify.app/posts/2022-12-06-shiny-app-malaytextr/)
+
 *Icons from flaticon*
