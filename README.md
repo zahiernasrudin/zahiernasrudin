@@ -38,6 +38,6 @@ My name is Zahier Nasrudin, and I am a senior data scientist at NielsenIQ Malays
 
 <p align= "center">
   <a href="https://zahier-nasrudin.netlify.app/data-visualization"> 
-  <img src="https://zahier-nasrudin.netlify.app/image/visualization/map-median-salary-malaysia.jpeg" width="31%" /> 
+  <img src="https://zahier-nasrudin.netlify.app/image/visualization/map-median-salary-malaysia.jpeg" width="50%" /> 
 
 *Icons from flaticon*
