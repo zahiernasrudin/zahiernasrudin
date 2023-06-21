@@ -34,4 +34,10 @@ My name is Zahier Nasrudin, and I am a senior data scientist at NielsenIQ Malays
 - <a href="https://zahier-nasrudin.netlify.app/posts/2022-12-06-shiny-app-malaytextr/" target="_blank">Malaytextr</a>
 - <a href="https://zahier-nasrudin.netlify.app/posts/2022-11-30-shiny-app-fuzzy-matching/" target="_blank">Fuzzy Matching</a>
 
+## Data Visualizations
+
+<p align= "center">
+  <a href="https://zahier-nasrudin.netlify.app/data-visualization"> 
+  <img src="https://zahier-nasrudin.netlify.app/image/visualization/map-median-salary-malaysia.jpeg" width="31%" /> 
+
 *Icons from flaticon*
