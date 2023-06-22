@@ -48,7 +48,7 @@ My name is Zahier Nasrudin, and I am a senior data scientist at NielsenIQ Malays
   </a>
   
   <a href="https://zahier-nasrudin.netlify.app/data-visualization"> 
-  <img src="https://zahier-nasrudin.netlify.app/image/visualization/possesion.png" width="35%" /> 
+  <img src= "https://zahier-nasrudin.netlify.app/image/visualization/minute-played.jpeg" width="35%" /> 
   
   <a href="https://zahier-nasrudin.netlify.app/data-visualization"> 
   <img src="https://zahier-nasrudin.netlify.app/image/visualization/xg_per_minute_world_cup.jpeg" width="35%" /> 
@@ -56,9 +56,8 @@ My name is Zahier Nasrudin, and I am a senior data scientist at NielsenIQ Malays
   </a>
   
   <a href="https://zahier-nasrudin.netlify.app/data-visualization"> 
-  <img src="https://zahier-nasrudin.netlify.app/image/visualization/minute-played.jpeg" width="35%" /> 
+  <img src="https://zahier-nasrudin.netlify.app/image/visualization/possesion.png" width="35%" /> 
   
-    </a>
     
     
 
