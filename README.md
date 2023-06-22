@@ -38,11 +38,6 @@ My name is Zahier Nasrudin, and I am a senior data scientist at NielsenIQ Malays
 
 <p align= "center">
   <a href="https://zahier-nasrudin.netlify.app/data-visualization"> 
-  <img src="https://zahier-nasrudin.netlify.app/image/visualization/7eleven_1.png" width="35%" /> 
-  
-  </a>
-  
-  <a href="https://zahier-nasrudin.netlify.app/data-visualization"> 
   <img src= "https://zahier-nasrudin.netlify.app/image/visualization/minute-played.jpeg" width="35%" /> 
   
   <a href="https://zahier-nasrudin.netlify.app/data-visualization"> 
