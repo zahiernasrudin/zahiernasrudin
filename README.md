@@ -38,7 +38,7 @@ My name is Zahier Nasrudin, and I am a senior data scientist at NielsenIQ Malays
 
 <p align= "center">
   <a href="https://zahier-nasrudin.netlify.app/data-visualization"> 
-  <img src="https://zahier-nasrudin.netlify.app/image/visualization/map-median-salary-malaysia.jpeg" width="35%" /> 
+  <img src= "https://zahier-nasrudin.netlify.app/image/visualization/possesion.png" width="35%" /> 
   
   </a>
   
@@ -56,7 +56,7 @@ My name is Zahier Nasrudin, and I am a senior data scientist at NielsenIQ Malays
   </a>
   
   <a href="https://zahier-nasrudin.netlify.app/data-visualization"> 
-  <img src="https://zahier-nasrudin.netlify.app/image/visualization/possesion.png" width="35%" /> 
+  <img src= "https://zahier-nasrudin.netlify.app/image/visualization/map-median-salary-malaysia.jpeg" width="35%" /> 
   
     
     
