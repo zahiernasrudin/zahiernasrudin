@@ -57,7 +57,10 @@ My name is Zahier Nasrudin, and I am a lead data scientist at NielsenIQ Malaysia
   <a href="https://zahier-nasrudin.netlify.app/data-visualization"> 
   <img src= "https://zahier-nasrudin.netlify.app/image/visualization/map-median-salary-malaysia.jpeg" width="35%" /> 
   
-    
+
+### Tidytuesday Contributions
+
+- [TidyTuesday: 2023](https://github.com/zahiernasrudin/tidytuesday/tree/main/2023)
     
 
 *Icons from flaticon*
