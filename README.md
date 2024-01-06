@@ -31,14 +31,14 @@ My name is Zahier Nasrudin, and I am a lead data scientist at NielsenIQ Malaysia
 ## Table of Contents
 
 - Projects
-  - [Data Visualizations](#data-visualizations)
   - [Shiny applications](#shiny-applications)
+  - [Data Visualizations](#data-visualizations)
 
 ## Shiny applications
 
 
-- <a href="https://zahier-nasrudin.netlify.app/posts/2022-12-06-shiny-app-malaytextr/" target="_blank">Malaytextr</a>
-- <a href="https://zahier-nasrudin.netlify.app/posts/2022-11-30-shiny-app-fuzzy-matching/" target="_blank">Fuzzy Matching</a>
+- <a href="https://zahier-nasrudin.netlify.app/posts/2022-12-06-shiny-app-malaytextr/shiny-app-malaytextr" target="_blank">Malaytextr</a>
+- <a href="https://zahier-nasrudin.netlify.app/posts/2022-11-30-shiny-app-fuzzy-matching/shiny-fuzzy" target="_blank">Fuzzy Matching</a>
 
 
 
