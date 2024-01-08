@@ -33,6 +33,7 @@ My name is Zahier Nasrudin, and I am a lead data scientist at NielsenIQ Malaysia
 - Projects
   - [Shiny applications](#shiny-applications)
   - [Data Visualizations](#data-visualizations)
+  - [Web Scraping](#webscraping)
 
 ## Shiny applications
 
@@ -61,6 +62,11 @@ My name is Zahier Nasrudin, and I am a lead data scientist at NielsenIQ Malaysia
 ### Tidytuesday Contributions
 
 - [TidyTuesday: 2023](https://github.com/zahiernasrudin/tidytuesday/tree/main/2023)
-    
+
+
+## Webscraping
+- [Web Scraping Project: Shopping Mall List in Malaysia](https://github.com/zahiernasrudin/webscrape/blob/main/01_webscrape_shopping_mall.qmd): This project involves web scraping to gather data on shopping malls located in Malaysia. The extracted information provides a comprehensive list of shopping malls, including their names and states
+
+
 
 *Icons from flaticon*
