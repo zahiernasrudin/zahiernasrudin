@@ -38,7 +38,7 @@ My name is Zahier Nasrudin, and I am a lead data scientist at NielsenIQ Malaysia
 
 
 ## Prediction and Classification
-- <a href="https://zahier-nasrudin.netlify.app/posts/2023-01-15-downsampling-aps-truck/downsampling-aps" target="_blank">APS Failure at Scania Trucks</a>
+- <a href="https://zahier-nasrudin.netlify.app/posts/2023-01-15-downsampling-aps-truck/downsampling-aps" target="_blank">APS Failure at Scania Trucks</a><p Analyzing and Predicting APS Failure in Scania Trucks using Machine Learning Techniques </p>
 
 
 ## Shiny applications
