@@ -38,7 +38,7 @@ My name is Zahier Nasrudin, and I am a lead data scientist at NielsenIQ Malaysia
 
 
 ## Prediction and Classification
-- <a href="https://zahier-nasrudin.netlify.app/posts/2023-01-15-downsampling-aps-truck/downsampling-aps" target="_blank">APS Failure at Scania Trucks</a><p Analyzing and Predicting APS Failure in Scania Trucks using Machine Learning Techniques </p>
+- <a href="https://zahier-nasrudin.netlify.app/posts/2023-01-15-downsampling-aps-truck/downsampling-aps" target="_blank">APS Failure at Scania Trucks</a>
 
 
 ## Shiny applications
@@ -71,7 +71,7 @@ My name is Zahier Nasrudin, and I am a lead data scientist at NielsenIQ Malaysia
 
 
 ## Webscraping
-- [Web Scraping Project: Shopping Mall List in Malaysia](https://github.com/zahiernasrudin/webscrape/blob/main/01_webscrape_shopping_mall.qmd){:target="_blank"}: This project involves web scraping to gather data on shopping malls located in Malaysia. The extracted information provides a comprehensive list of shopping malls, including their names and states
+- [Web Scraping Project: Shopping Mall List in Malaysia](https://github.com/zahiernasrudin/webscrape/blob/main/01_webscrape_shopping_mall.qmd): This project involves web scraping to gather data on shopping malls located in Malaysia. The extracted information provides a comprehensive list of shopping malls, including their names and states
 
 
 
