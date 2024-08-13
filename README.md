@@ -26,7 +26,7 @@
 
 **Hello!**
 
-My name is Zahier Nasrudin, and I am a lead data scientist at NielsenIQ Malaysia and also a freelance data consultant
+A lead data scientist at NielsenIQ Malaysia and also a freelance data consultant
 
 ## Table of Contents
 
