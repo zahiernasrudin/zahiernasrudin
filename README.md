@@ -24,7 +24,6 @@
 
 ------------------------------------------------------------------------
 
-**Hello!**
 
 A lead data scientist at NielsenIQ Malaysia and also a freelance data consultant
 
